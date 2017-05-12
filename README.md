@@ -150,8 +150,8 @@ The AAA (arrange, act, assert) pattern is a common way of writing unit tests.
 ## Version
 #### 	My Bank Accounts Model: 2.0.1
 ## Current Version
-#### My Bank Accounts Model: 2.0.1 ###Release date Version 2.0.1 -- 12th May, 2017
+#### My Bank Accounts Model: 2.0.1 ### Release date Version 2.0.1 -- 12th May, 2017
 ## License
-### MIT
+#### MIT
 ## Author
-### Lotfar kaes
+#### Lotfar kaes
