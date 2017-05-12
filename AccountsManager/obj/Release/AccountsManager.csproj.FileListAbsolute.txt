@@ -1,0 +1,9 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\bin\Release\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\bin\Release\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\obj\Release\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\obj\Release\AccountsManager.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\AccountsManager\bin\Release\AccountsManager.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\AccountsManager\bin\Release\AccountsManager.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\AccountsManager\obj\Release\AccountsManager.csprojResolveAssemblyReference.cache
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\AccountsManager\obj\Release\AccountsManager.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\AccountsManager\obj\Release\AccountsManager.pdb

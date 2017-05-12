@@ -1,0 +1,14 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Release\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Release\TestData.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Release\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Release\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\obj\Release\Accounts_TestData.csprojResolveAssemblyReference.cache
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\obj\Release\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\obj\Release\TestData.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\bin\Release\TestData.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\bin\Release\TestData.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\bin\Release\AccountsManager.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\bin\Release\AccountsManager.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\obj\Release\Accounts_TestData.csprojResolveAssemblyReference.cache
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\obj\Release\TestData.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\TestData\obj\Release\TestData.pdb

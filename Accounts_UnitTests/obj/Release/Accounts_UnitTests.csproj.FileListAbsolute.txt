@@ -1,0 +1,14 @@
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\Accounts_UnitTests.dll.config
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\Accounts_UnitTests.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\Accounts_UnitTests.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\AccountsManager.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\EntityFramework.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\TestData.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\AccountsManager.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\TestData.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\EntityFramework.xml
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\obj\Release\Accounts_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\obj\Release\Accounts_UnitTests.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Accounts_UnitTests\obj\Release\Accounts_UnitTests.pdb

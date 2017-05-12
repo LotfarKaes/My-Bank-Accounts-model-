@@ -1,0 +1,16 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\Example.exe.config
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\Example.exe
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\Example.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\obj\Debug\Example.exe
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\obj\Debug\Example.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Debug\TestData.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Debug\Example.exe.config
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\obj\Debug\Example.exe
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\obj\Debug\Example.pdb
+C:\Users\KAES\Desktop\ALL\TVShow\New folder\backedn\Accounts\Example\bin\Debug\Example.exe.config
+C:\Users\KAES\Desktop\ALL\TVShow\New folder\backedn\Accounts\Example\obj\Debug\Example.exe
+C:\Users\KAES\Desktop\ALL\TVShow\New folder\backedn\Accounts\Example\obj\Debug\Example.pdb

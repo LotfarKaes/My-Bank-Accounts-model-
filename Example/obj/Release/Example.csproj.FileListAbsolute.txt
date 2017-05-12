@@ -1,0 +1,20 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\Example.exe.config
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\Example.exe
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\Example.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\bin\Release\TestData.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\obj\Release\Example.exe
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Example\obj\Release\Example.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\Example.exe.config
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\obj\Release\Example.exe
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\obj\Release\Example.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\Example.exe
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\Example.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\AccountsManager.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\TestData.dll
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\AccountsManager.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\bin\Release\TestData.pdb
+C:\Users\KAES\Desktop\TVShow\New folder\backedn\Accounts\Example\obj\Release\Example.csprojResolveAssemblyReference.cache

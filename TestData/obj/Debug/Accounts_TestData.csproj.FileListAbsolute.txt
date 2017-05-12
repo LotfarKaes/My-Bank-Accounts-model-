@@ -1,0 +1,7 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\obj\Debug\Accounts_TestData.csprojResolveAssemblyReference.cache
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Debug\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Debug\TestData.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Debug\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\bin\Debug\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\obj\Debug\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\TestData\obj\Debug\TestData.pdb

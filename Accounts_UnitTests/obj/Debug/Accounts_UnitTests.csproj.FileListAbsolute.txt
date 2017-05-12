@@ -1,0 +1,14 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\Accounts_UnitTests.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\Accounts_UnitTests.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\obj\Debug\Accounts_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\obj\Debug\Accounts_UnitTests.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\obj\Debug\Accounts_UnitTests.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\Accounts_UnitTests.dll.config
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\TestData.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\Accounts_UnitTests\bin\Debug\TestData.pdb

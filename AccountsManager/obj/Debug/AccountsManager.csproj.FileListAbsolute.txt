@@ -1,0 +1,5 @@
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\bin\Debug\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\bin\Debug\AccountsManager.pdb
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\obj\Debug\AccountsManager.csprojResolveAssemblyReference.cache
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\obj\Debug\AccountsManager.dll
+C:\Users\erics\Desktop\Development\Projects\upwork\Accounts\AccountsManager\obj\Debug\AccountsManager.pdb
